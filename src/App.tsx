@@ -309,7 +309,7 @@ setEditingEntry(null);
             }}
           >
             <h2 className="section-title">
-              Your Companies
+              Company List
             </h2>
 
             <div>
